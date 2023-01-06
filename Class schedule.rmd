@@ -1,0 +1,180 @@
+---
+title: ''
+  html_document:
+    df_print: paged
+---
+
+\newpage
+
+# `r fontawesome::fa("calendar-alt")` Class schedule. 
+
+EMF, Spring 2023. Room 2401, 17:30 – 19:00.
+
+## Part 1. `r fontawesome::fa("battery-quarter")`
+
+**Session 1. `r fontawesome::fa("credit-card")` Thursday, 12 January.**
+
+- Readings. Course syllabus (this document).
+- Activity. Welcome. Introduction to the course.
+- Activity. Set up your free DataCamp and Deepnote accounts (you should have invitations in your UDEM student email).
+- Activity. Define your group of no more than 4 members (you should have an invitation in your UDEM student email).
+
+**Session 2. `r fontawesome::fa("credit-card")` Monday, 16 January.**
+
+
+
+**Session 3. Thursday, 19 January.**
+
+
+
+**Session 4. Monday, 23 January.**
+
+
+
+**Session 5. Thursday, 26 January.**
+
+
+
+
+**Session 6. Monday, 30 January.**
+
+
+
+**Session 7. Thursday, 2 February.**
+
+- $H_1$ review session.
+
+
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 6 February.**
+
+**Session 8. Thursday, 9 February.**
+
+- Complete $H_1$ before 10:00 a.m.
+- Review $H_1$ answers.
+- $E_1$ review session.
+
+
+**Session 9. Monday, 13 February.**
+
+- $E_1$ instructions available in Blackboard.
+
+
+
+## Part 2. `r fontawesome::fa("battery-half")`
+
+**Session 10. Thursday, 16 February.**
+
+- Review $E_1$ answers.
+- Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+
+
+
+
+**Session 11. Monday, 20 February.**
+
+
+
+**Session 12. Thursday, 23 February.**
+
+
+
+**Session 13. Monday, 27 February.**
+
+
+
+**Session 14. Thursday, 2 March.**
+
+
+**Session 15. Monday, 6 March.**
+
+
+
+**Session 16. Thursday, 9 March.**
+
+
+**Session 17. Monday, 13 March.**
+
+
+**Session 18. Thursday, 16 March.**
+
+
+
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 20 March.**
+
+
+**Session 19. Thursday, 23 March.**
+
+- $H_2$ review session.
+
+
+**Session 20. Monday, 27 March.**
+
+- Complete $H_2$ before 10:00 a.m.
+- Review $H_2$ answers.
+- $E_2$ review session.
+
+
+
+**Session 21. Thursday, 30 March.**
+
+- $E_2$ instructions available in Blackboard.
+- Friday 31 March: Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 3 April.**
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, 6 April.**
+
+## Part 3. `r fontawesome::fa("battery-three-quarters")`
+
+**Session 22. Monday, 10 April.**
+
+- Review $E_2$ answers.
+
+
+**Session 23. Thursday, 13 April.**
+
+
+**Session 24. Monday, 17 April.**
+
+
+
+
+**Session 25. Thursday, 20 April.**
+
+
+**Session 26. Monday, 24 April.**
+
+
+
+
+**Session 27. Thursday, 27 April.**
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 1 May.**
+
+
+
+**Session 28. Thursday, 4 May.**
+
+
+
+**Session 29. Monday, 8 May.**
+
+
+**Session 30. Thursday, 11 May.**
+
+
+- Complete $H_3$ before 10:00 a.m.
+- $E_F$ review session.
+- Farewell.
+
+## The end. `r fontawesome::fa("battery-full")`
+
+**Final exam. Monday, 15 May, 16:00 – 18:00.**
+
+- $E_F$ instructions available in Blackboard.
+
+
+\newpage
