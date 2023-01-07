@@ -12,14 +12,14 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 ## Part 1. `r fontawesome::fa("battery-quarter")`
 
-**Session 1. `r fontawesome::fa("credit-card")` Thursday, 12 January.**
+**Session 1. Thursday, 12 January.**
 
 - Readings. Course syllabus (this document).
 - Activity. Welcome. Introduction to the course.
 - Activity. Set up your free DataCamp and Deepnote accounts (you should have invitations in your UDEM student email).
 - Activity. Define your group of no more than 4 members (you should have an invitation in your UDEM student email).
 
-**Session 2. `r fontawesome::fa("credit-card")` Monday, 16 January.**
+**Session 2. Monday, 16 January.**
 
 
 
@@ -28,6 +28,8 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 
 **Session 4. Monday, 23 January.**
+
+- Extra marks. DataCamp skill track: Machine Learning Fundamentals in R. Before 10:00 a.m.
 
 
 
@@ -38,10 +40,11 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 **Session 6. Monday, 30 January.**
 
-
+- Extra marks. DataCamp skill track: Time Series with R. Before 10:00 a.m.
 
 **Session 7, Zoom. Thursday, 2 February.**
 
+- Super extra marks. Individual class activity. DataCamp assessment: R Programming.
 - $ME_1$ instructions available in Blackboard.
 - $H_1$ review session.
 
@@ -77,11 +80,14 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 
 
+
 **Session 12. Thursday, 23 February.**
 
+- Extra marks. DataCamp skill track: Supervised Machine Learning in R. Before 10:00 a.m.
 
 
 **Session 13. Monday, 27 February.**
+
 
 
 
@@ -90,18 +96,21 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 **Session 15. Monday, 6 March.**
 
-- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
+- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview) Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 
 
 
 **Session 16. Thursday, 9 March.**
 
 
+
 **Session 17. Monday, 13 March.**
 
+- Extra marks. DataCamp skill track: Unsupervised Machine Learning with R. Before 10:00 a.m.
 
 **Session 18, Zoom. Thursday, 16 March.**
 
+- Super extra marks. Individual class activity. DataCamp assessment: Machine Learning Fundamentals in R.
 - $ME_2$ instructions available in Blackboard.
 
 
@@ -142,7 +151,7 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 **Session 23, TEAMS. Thursday, 13 April.**
 
-- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
+- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview) Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 - Video intercultural. Primer sesión sincrónica COIL. Instrucciones en Blackboard.
 
 **Session 24. Monday, 17 April.**
@@ -155,12 +164,11 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 - Análisis de datos. Segunda sesión sincrónica COIL. Instrucciones en Blackboard.
 
 **Session 26, Zoom. Monday, 24 April.**
+
 - $ME_F$ instructions available in Blackboard.
 
 
-
-
-**Session 27. Thursday, 27 April.**
+**Session 27, TEAMS. Thursday, 27 April.**
 
 - Metodología. Tercer sesión sincrónica COIL. Instrucciones en Blackboard.
 
@@ -174,6 +182,7 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 
 **Session 29. Monday, 8 May.**
+
 - $E_F$ review session.
 - The wheel of fortune.
 
