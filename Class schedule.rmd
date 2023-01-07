@@ -40,8 +40,9 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 
 
-**Session 7. Thursday, 2 February.**
+**Session 7, Zoom. Thursday, 2 February.**
 
+- $ME_1$ instructions available in Blackboard.
 - $H_1$ review session.
 
 
@@ -55,7 +56,7 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 - $E_1$ review session.
 
 
-**Session 9. Monday, 13 February.**
+**Session 9, Zoom. Monday, 13 February.**
 
 - $E_1$ instructions available in Blackboard.
 
@@ -63,9 +64,10 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 ## Part 2. `r fontawesome::fa("battery-half")`
 
-**Session 10. Thursday, 16 February.**
+**Session 10, Zoom. Thursday, 16 February.**
 
 - Review $E_1$ answers.
+- The wheel of fortune.
 - Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
 
 
@@ -88,6 +90,8 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 **Session 15. Monday, 6 March.**
 
+- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
+
 
 
 **Session 16. Thursday, 9 March.**
@@ -96,7 +100,9 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 **Session 17. Monday, 13 March.**
 
 
-**Session 18. Thursday, 16 March.**
+**Session 18, Zoom. Thursday, 16 March.**
+
+- $ME_2$ instructions available in Blackboard.
 
 
 
@@ -117,10 +123,10 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 
 
-**Session 21. Thursday, 30 March.**
+**Session 21, Zoom. Thursday, 30 March.**
 
 - $E_2$ instructions available in Blackboard.
-- Friday 31 March: Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+- Friday 31 March: Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard. View $E_2$ answers.
 
 
 **Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 3 April.**
@@ -131,48 +137,60 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 **Session 22. Monday, 10 April.**
 
-- Review $E_2$ answers.
+- Inicia COIL. Instrucciones en Blackboard.
+- The wheel of fortune.
 
+**Session 23, TEAMS. Thursday, 13 April.**
 
-**Session 23. Thursday, 13 April.**
-
+- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
+- Video intercultural. Primer sesión sincrónica COIL. Instrucciones en Blackboard.
 
 **Session 24. Monday, 17 April.**
 
 
 
 
-**Session 25. Thursday, 20 April.**
+**Session 25, TEAMS. Thursday, 20 April.**
 
+- Análisis de datos. Segunda sesión sincrónica COIL. Instrucciones en Blackboard.
 
-**Session 26. Monday, 24 April.**
+**Session 26, Zoom. Monday, 24 April.**
+- $ME_F$ instructions available in Blackboard.
 
 
 
 
 **Session 27. Thursday, 27 April.**
 
+- Metodología. Tercer sesión sincrónica COIL. Instrucciones en Blackboard.
+
 **Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 1 May.**
 
 
 
-**Session 28. Thursday, 4 May.**
+**Session 28, TEAMS. Thursday, 4 May.**
 
+- Resultados. Cuarta sesión sincrónica COIL. Instrucciones en Blackboard.
 
 
 **Session 29. Monday, 8 May.**
-
-
-**Session 30. Thursday, 11 May.**
-
-
-- Complete $H_3$ before 10:00 a.m.
 - $E_F$ review session.
+- The wheel of fortune.
+
+**Session 30, Zoom. Thursday, 11 May.**
+
+- Conclusiones COIL. Instrucciones en Blackboard.
+- Complete $H_3$ before 10:00 a.m.
 - Farewell.
+
+**Session 31, Zoom. Friday, 12 May, 16:00 – 19:00.**
+
+- COIL: Reflexión individual, auto y co-evaluación 10:00 a.m. Instrucciones en Blackboard.
+- Open rehearsal PEF students.
 
 ## The end. `r fontawesome::fa("battery-full")`
 
-**Final exam. Monday, 15 May, 16:00 – 18:00.**
+**Final exam, Zoom. Monday, 15 May, 16:00 – 18:00.**
 
 - $E_F$ instructions available in Blackboard.
 
