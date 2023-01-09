@@ -33,7 +33,8 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 **Session 4. Monday, 23 January.**
 
 - Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 3 *Time series decomposition*.
-- Reading. @lozanoEMF, Chapters 1 and 2.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
 - Complementary material. Video: [Rob Hyndman, How Rmarkdown changed my life, RStudio 2020.](https://youtu.be/_D-ux3MqGug)
 - Extra marks. DataCamp skill track: *Machine learning fundamentals in R*. Before 10:00 a.m.
 
@@ -83,7 +84,8 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 **Session 11. Monday, 20 February.**
 
 - Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 8 *Exponential smoothing*.
-- Reading. @lozanoEMF, Chapters 1 and 2.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
 - Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 8.1 [Simple exponential smoothing.](https://youtu.be/E47o0TrFBIg) 8.2 [Holt's linear trend method.](https://youtu.be/tMaEhMmLgxs) 8.3 [Holt Winters smoothing.](https://youtu.be/Mtu3_eIgSg0) 8.7 [ETS models.](https://youtu.be/QnBGtvKnGqk)
 
 **Session 12. Thursday, 23 February.**
@@ -106,7 +108,9 @@ EMF, Spring 2023. Room 2401, 17:30 – 19:00.
 
 **Session 15. `r fontawesome::fa("female")` Monday, 6 March.**
 
-- Reading. @lozanoEMF, Chapters 3, 4 and 5.
+- Reading. @lozanoEMF, Chapter 3 *Forecasts with h2o*.
+- Reading. @lozanoEMF, Chapter 4 *Two more forecast models*.
+- Reading. @lozanoEMF, Chapter 5 *Summary of all results*.
 - Extra marks. [Open online course on gender and environment.](https://unccelearn.org/course/view.php?id=39&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
 
 **Session 16. Thursday, 9 March.**
