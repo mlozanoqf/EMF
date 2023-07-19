@@ -170,6 +170,9 @@ EMF, Fall 2023. Room 1411, 17:30 – 19:00.
 
 **Session 31. COIL 4/4. Thursday, 16 November.**
 
+**Session 32, Zoom. Tuesday, 21 November.**
+
+- Review.
 
 ## `r fontawesome::fa("battery-full")` The end.
 
