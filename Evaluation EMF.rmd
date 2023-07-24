@@ -153,7 +153,8 @@ textable <- "
  & \\multicolumn{1}{c|}{$E_2$} & 100 & $100 \\times \\ 0.7 \\times 0.4 = 28$ & $100 \\times \\ 0.5 \\times 0.4 = 20$ \\\\ \\midrule
 \\multirow{2}{*}{30\\%} & \\multicolumn{1}{c|}{$H_1$} & 0 & $0 \\times 0.3 \\times 0.3 = 0$ & $0 \\times 0.5 \\times 0.3 = 0$ \\\\ \\cmidrule(l){2-5} 
  & \\multicolumn{1}{c|}{$H_2$} & 100 & $100 \\times \\ 0.7 \\times 0.3 = 21$ & $100 \\times \\ 0.5 \\times 0.3 = 15$ \\\\ \\midrule
-30\\% & \\multicolumn{1}{c|}{$E_F$} & 70 & $70 \\times 0.3 = 21$ & $70 \\times 0.3 = 21$ \\\\ \\midrule
+20\\% & \\multicolumn{1}{c|}{COIL} & 70 & $70 \\times 0.2 = 14$ & $70 \\times 0.2 = 14$ \\\\ \\midrule
+10\\% & \\multicolumn{1}{c|}{$E_F$} & 70 & $70 \\times 0.1 = 7$ & $70 \\times 0.1 = 7$ \\\\ \\midrule
 100\\% & \\multicolumn{2}{c|}{$F$} & 70 & 56 \\\\ \\bottomrule
 \\end{tabular}
 \\end{table}"
