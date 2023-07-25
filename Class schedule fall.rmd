@@ -12,7 +12,7 @@ title: ''
 
 Room 1411, 17:30 – 19:00.
 
-Zoom [https://us02web.zoom.us/j/81965206932](https://us02web.zoom.us/j/81965206932)
+Zoom [https://us02web.zoom.us/j/81718764251](https://us02web.zoom.us/j/81718764251)
 
 ## `r fontawesome::fa("battery-quarter")` Part 1.
 
