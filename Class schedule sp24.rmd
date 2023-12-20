@@ -1,0 +1,125 @@
+# `r fontawesome::fa("calendar-alt")` Schedule. {#sec-schedule}
+
+`r fontawesome::fa("chart-line")` EMF, Spring 2024. Room  3315, 17:30 – 19:00. Zoom [https://us02web.zoom.us/j/88361275782](https://us02web.zoom.us/j/88361275782)
+
+
+## `r fontawesome::fa("battery-quarter")` Part 1.
+
+**Session 1. `r fontawesome::fa("handshake")` Thursday, 11 January.**
+
+- Reading. Course syllabus (this document).
+- Activity. Welcome and introduction to the course.
+- Activity. Set up your free DataCamp and Deepnote accounts. You should have received invitations in your UDEM student email.
+- Activity. Define your group of no more than 4 members. You should have received an invitation in your UDEM student email.
+
+**Session 2. Monday, 15 January.**
+
+**Session 3. Thursday, 18 January.**
+
+**Session 4. Monday, 22 January.**
+
+**Session 5. Thursday, 25 January.**
+
+**Session 6. Monday, 29 January.**
+
+- Activity. $H_1$ review.
+
+**Session 7, Zoom. Thursday, 1 February.**
+
+- Graded. Complete $H_1$ before 10:00 a.m.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 5 February.**
+
+**Session 8. Thursday, 8 February.**
+
+- Activity. $E_1$ review.
+
+**Session 9, Zoom. Monday, 12 February.**
+
+- Graded. $E_1$ Instructions in Blackboard.
+
+## `r fontawesome::fa("battery-half")` Part 2.
+
+**Session 10, Zoom. `r fontawesome::fa("heart", fill = "red")` Thursday, 15 February.**
+
+- Activity. Discuss $E_1$ answers.
+- Extra marks. The wheel of fortune 1/3.
+
+**Session 11. Monday, 19 February.**
+
+**Session 12. Thursday, 22 February.**
+
+**Session 13. Monday, 26 February.**
+
+- Graded. Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions in Blackboard.
+
+**Session 14. Thursday, 29 February.**
+
+**Session 15, Zoom. Monday, 4 March.**
+
+**Session 16. `r fontawesome::fa("female")` Thursday, 7 March.**
+
+**Session 17. Monday, 11 March.**
+
+- Activity. $H_2$ review.
+- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg); [episodio en YouTube](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC). Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del segundo parcial. La hora límite es 10:00 am de la sesión 17.
+
+**Session 18, Zoom. $\pi$ Thursday, 14 March.**
+
+- Graded. Complete $H_2$ before 10:00 a.m.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 18 March.**
+
+**Session 19. Thursday, 21 March.**
+
+- Activity. $E_2$ review.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 25 March.**
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, 28 March.**
+
+**Session 20, Zoom. Monday, 1 April.**
+
+- Graded. $E_2$ Instructions in Blackboard.
+
+## `r fontawesome::fa("battery-three-quarters")` Part 3.
+
+**Session 21, Zoom. Thursday, 4 April.**
+
+- Activity. Discuss $E_2$ answers.
+- Extra marks. The wheel of fortune 2/3.
+
+**Session 22. Monday, 8 April.**
+
+- Graded. Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions in Blackboard.
+- Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
+
+**Session 23, Zoom. COIL 1/4. Thursday, 11 April.**
+
+**Session 24. Monday, 15 April.**
+
+**Session 25, Zoom. COIL 2/4. Thursday, 18 April.**
+
+**Session 26. Monday, 22 April.**
+
+**Session 27, Zoom. COIL 3/4. Thursday, 25 April.**
+
+**Session 28, Zoom. `r fontawesome::fa("children")` Monday, 29 April.**
+
+**Session 29, Zoom. COIL 4/4. `r fontawesome::fa("jedi-order")` Thursday, 2 May.**
+
+**Session 30. Monday, 6 May.**
+
+- Non-graded. Complete $H_3$ before 10:00 a.m.
+
+**Session 31, Zoom. `r fontawesome::fa("female")` Thursday, 9 May.**
+
+- Activity. $E_F$ review.
+- Extra marks. The wheel of fortune 3/3.
+- Farewell.
+
+## `r fontawesome::fa("battery-full")` The end.
+
+**Final exam, Zoom. Monday, 13 May, 16:00 – 18:00.**
+
+- Graded. $E_F$ Instructions in Blackboard.
