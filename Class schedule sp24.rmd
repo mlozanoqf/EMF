@@ -49,6 +49,7 @@
 - Extra marks 3/8. [Sustainable Diet.](https://unccelearn.org/course/view.php?id=56&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
 - Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A)
 - Graded. Complete $H_1$ before 10:00 a.m.
+- Activity. $H_1$ presentations.
 
 **Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 5 February.**
 
@@ -59,6 +60,7 @@
 **Session 9, Zoom. Monday, 12 February.**
 
 - Graded. $E_1$ Instructions in Blackboard.
+- Graded. $H_1$ and $E_1$ auto and co-evaluation form is available for you to complete after the exam. Instructions in Blackboard.
 
 ## `r fontawesome::fa("battery-half")` Part 2.
 
@@ -112,6 +114,7 @@
 **Session 18, Zoom. $\pi$ Thursday, 14 March.**
 
 - Graded. Complete $H_2$ before 10:00 a.m.
+- Activity. $H_2$ presentations.
 
 **Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 18 March.**
 
@@ -126,6 +129,7 @@
 **Session 20, Zoom. Monday, 1 April.**
 
 - Graded. $E_2$ Instructions in Blackboard.
+- Graded. $H_2$ and $E_2$ auto and co-evaluation form is available for you to complete after the exam. Instructions in Blackboard.
 
 ## `r fontawesome::fa("battery-three-quarters")` Part 3.
 
@@ -142,6 +146,7 @@
 - Nota: Las instrucciones de la actividad COIL están disponibles en Blackboard.
 - Graded. Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions in Blackboard.
 - Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
+- Extra marks. Tuesday, April 9th: DataCamp top 5 XP of the last 90 days.
 
 **Session 23, Zoom. COIL 1/4. Thursday, 11 April.**
 
