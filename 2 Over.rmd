@@ -24,13 +24,16 @@ This section includes the course objectives, mechanics, and important informatio
 
 ## `r fontawesome::fa("chart-line")` EMF description.
 
-The course incorporates a COIL (Collaborative Online International Learning) activity with students from Universidad Católica Luis Amigó in Colombia, aiming to foster intercultural understanding among students. Econometrics is a branch of economics that utilizes mathematical and statistical methods to describe economic systems. In the context of finance, financial econometrics applies statistical techniques to address problems specific to the field. For instance, while we may know from previous courses that there exists a negative relationship between interest rates and stock prices, econometrics allows us to measure and assess the strength and dynamics of this relationship. Moreover, financial econometrics enables us to incorporate data into existing financial models, empirically testing their validity and obtaining estimates that are significantly more reliable than informal guesses or estimations.
+<!-- The course incorporates a COIL (Collaborative Online International Learning) activity with students from Universidad Católica Luis Amigó in Colombia, aiming to foster intercultural understanding among students.  -->
+
+Econometrics is a branch of economics that utilizes mathematical and statistical methods to describe economic systems. In the context of finance, financial econometrics applies statistical techniques to address problems specific to the field. For instance, while we may know from previous courses that there exists a negative relationship between interest rates and stock prices, econometrics allows us to measure and assess the strength and dynamics of this relationship. Moreover, financial econometrics enables us to incorporate data into existing financial models, empirically testing their validity and obtaining estimates that are significantly more reliable than informal guesses or estimations.
 
 Forecasting is a key aspect of financial econometrics and holds great importance in decision-making processes across various areas of a company. This course primarily focuses on forecasting methods commonly used in finance and economics. Forecasting entails predicting the future as accurately as possible, leveraging available information such as historical data and awareness of potential future events that might impact the forecasts. This subject is valuable in bridging the gap between being a student and becoming a practitioner in the finance field. We will also explore computational finance using R and Python as a means to learn financial econometrics.
 
 The main electronic textbooks recommended for this course are: @49018680cf534023b6ae0f4e933c475d, and @lozanoEMF. Additionally, there are other highly regarded reference books that employ R, such as: @hanck2020introduction, @gujarati2012basic, @brooks2019introductory, @Oswaldeconometrics, @heiss2020usingR and @mcnulty2021handbook, @RundelIntroduction, @james2013introduction. For Python enthusiasts, see @heiss2020usingPython is a recommended resource.
 
 Please refer to the course calendar provided at the end of this syllabus for further details about the topics, activities, and required readings: @sec-schedule.
+
 
 <!-- ## `r fontawesome::fa("credit-card")` ARF description. -->
 
@@ -40,7 +43,10 @@ Please refer to the course calendar provided at the end of this syllabus for fur
 
 <!-- The main textbooks recommended for this course are: @Hull9, which covers influential credit risk models widely used in the financial industry; @drake2010basics, @crouhy2014essentials and @brealey2020principles, which provide comprehensive analyses of various sources of risk in financial markets; @lozanoARF and @lozanoIF, which bridges the gap between theoretical model analysis and practical computational modeling using R. Complementing these resources, @hull2020machine and @james2013introduction are recommended as additional reference books. -->
 
+<!-- Listen to this [Spotify `r fontawesome::fa("spotify")` podcast](https://open.spotify.com/episode/7hrOh0tvDH3lioOfXtRqsT?si=8142007bc6ab4f56) to learn more about financial risk. -->
+
 <!-- Please refer to the course calendar provided at the end of this syllabus for further details about the topics, activities, and required readings: @sec-schedule. -->
+
 
 <!-- IF. `r fontawesome::fa("cogs")` Engineering is a field of science and technology that focuses on the design, construction, and utilization of engines, machines, and structures. Similarly, financial engineering involves the design, modeling, and utilization of various financial techniques and instruments to develop strategies that modify or mitigate specific risk exposures. In this course, you will learn how to create quantitative financial strategies, understand financial instruments like options, and become familiar with tools and techniques used to measure risk in finance, such as value at risk and GARCH models.
 
@@ -135,13 +141,11 @@ embed_url("https://youtu.be/Aa01-lwYllU")
 
 In accordance with some of [The Sustainable Development Goals](https://sdgs.un.org/goals) by the United Nations, see @UN17, all the compulsory readings and activity submissions are available in electronic format. Other complementary materials and activities may be incorporated or altered during the semester, depending on relevant news or events that do not currently exist or are hard to anticipate at the beginning of the semester. If that is the case, I will inform you in advance. As a student, you should be confident that all the course materials and activities are perfectly suitable for an undergraduate student enrolled in a prestigious world-class university. In other words, there will not be an intellectual challenge that you cannot overcome with the appropriate amount of enthusiasm, time, work, determination, and, if necessary, assistance. This course is designed in such a way that you can pass and learn as long as you invest the right amount of time and work.
 
-I assume you are fully aware of the academic regulations dictated by the university, including class attendance and maximum absences allowed. If you are not familiar with them, please review the corresponding student regulations. In this course, we will adhere to those regulations.
-
 ## `r fontawesome::fa("thumbs-up")` Academic integrity.
 
 Individuals with integrity demonstrate a high level of moral character and ethics, choosing to do what is right even when faced with difficult decisions or temptations. They are trustworthy, reliable, and have a strong sense of accountability. Integrity is an essential quality in personal relationships, professional settings, and society as a whole, as it fosters trust, respect, and fairness.
 
-We pledge to uphold the highest standards of honesty and integrity, both for ourselves and our peers. Violations of academic integrity, including plagiarism and cheating, are strictly prohibited and may result in consequences such as failure of assignments, failure of the course, and additional disciplinary actions as per current regulations. Plagiarism is defined as presenting another person's thoughts or words as one's own, without proper acknowledgment or attribution. This includes copying from textbooks, other sources (including the Internet), or any material without giving due credit to the original source.
+We pledge to uphold the highest standards of honesty and integrity, both for ourselves and our peers. Violations of academic integrity, including plagiarism and cheating, are strictly prohibited and may result in consequences such as failure of assignments, failure of the course, and additional disciplinary actions as per current regulations. Plagiarism is defined as presenting another person's thoughts or words as one's own, without proper acknowledgment or attribution. This includes copying from textbooks, other sources, including the Internet, generative AI tools, or any material without giving due credit to the original source.
 
 Please watch the following video about plagiarism taken from [York St. John University](https://www.yorksj.ac.uk/) about understanding plagiarism.
 
@@ -149,7 +153,7 @@ Please watch the following video about plagiarism taken from [York St. John Univ
 embed_url("http://youtu.be/ptHIA5bMnio")
 ```
 
-I strongly advise against constructing a piece of work by simply cutting and pasting or copying material written by others into something you submit as your own. Regardless of any pressure you may feel to complete an assignment, it is important to never succumb to the temptation of taking a shortcut and using someone else's material inappropriately. This includes ChatGPT and other generative AI tools as this is a form of plagiarism with potentially serious consequences. You are free to use these AI as a learning tool, but not to answer graded activities. 
+I strongly advise against constructing a piece of work by simply cutting and pasting or copying material written by others into something you submit as your own. Regardless of any pressure you may feel to complete an assignment, it is important to never succumb to the temptation of taking a shortcut and using someone else's material inappropriately. This includes ChatGPT and other generative AI tools as this is a form of plagiarism with potentially serious consequences. 
 
 See the following video to illustrate this point:
 
