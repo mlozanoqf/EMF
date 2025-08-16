@@ -80,6 +80,7 @@ EMF, Fall 2025. Room 3311, Monday & Thursday 17:30 – 19:00. Zoom [https://us02
 **Session 14, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, September 18.**
 
 - Graded. $E_1$ Instructions in Blackboard.
+- The link to complete $H_1$ and $E_1$ co-evaluation will be available on Blackboard right after the exam.
 - Graded. Submit $H_1$ and $E_1$ co-evaluation before Friday September 19, 10:00 a.m. Instructions in Blackboard.
 
 ## `r fontawesome::fa("battery-half", fill = "red")` Part 2.
@@ -135,6 +136,7 @@ EMF, Fall 2025. Room 3311, Monday & Thursday 17:30 – 19:00. Zoom [https://us02
 **Session 23, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, October 20.**
 
 - Graded. $E_2$ Instructions in Blackboard.
+- The link to complete $H_2$ and $E_2$ co-evaluation will be available on Blackboard right after the exam.
 
 ## `r fontawesome::fa("battery-three-quarters", fill = "orange")` Part 3.
 
