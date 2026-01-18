@@ -155,7 +155,7 @@ EMF, Spring 2026. Room 3310, Monday & Thursday 17:30 – 19:00. Zoom [https://us
 
 - Reading. @Hull11, chapter 23, section 23.2: *The exponentially weighted moving average model*. 
 
-**Session 25. Monday, April 20.**
+**Session 25, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, April 20.**
 
 - Reading. @Hull11, chapter 23, section 23.3: *The GARCH(1,1) model*.
 
