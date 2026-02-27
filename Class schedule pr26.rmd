@@ -83,7 +83,6 @@ EMF, Spring 2026. Room 3310, Monday & Thursday 17:30 – 19:00. Zoom [https://us
 **Session 13. Thursday, February 26.**
 
 - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*.
-- Extra marks. DataCamp top 5 XP for the first 30 days. Deadline: Wednesday, September 3.
 - Complementary material. *Retos y oportunidades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Available at: [Spotify `r fontawesome::fa("spotify")`](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=bcee2af66ed54e09); [YouTube `r fontawesome::fa("youtube")`](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC); [LinkedIn `r fontawesome::fa("linkedin")`](https://www.linkedin.com/posts/martin-lozano-21818a22_132-retos-y-oportunidades-en-el-aprendizaje-activity-7142212773349945344-1xHL?utm_source=share&utm_medium=member_desktop). Café de Datos, Datlas. Temporada 9, capítulo 132. Diciembre 2023. 
 - Bonus points. **Time Series**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time.
 
