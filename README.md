@@ -1,7 +1,7 @@
 # EMF1 syllabus
 
 This repository contains the Quarto book version of the course syllabus for
-Econometría para los financieros EMF1.
+Econometría para los mercados financieros EMF1.
 
 ## Publishing workflow
 

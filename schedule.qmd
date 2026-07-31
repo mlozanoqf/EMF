@@ -22,42 +22,51 @@
 
 **Session 3. Monday, August 10.**
 
-- Topic 1/3: Credit scoring models.
-- Required reading. @lozanoARF, chapter 1: *Logistic credit scoring* (1/4).
+- Topic 1/3: Financial time-series forecasting.
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 1: *Getting started* and 2: *Time series graphics*.
+- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (1/4).
+- Supplementary reading. @ruppert2015statistics, chapter 2, sections 2.1: *Introduction* and 2.2: *The Random Walk Model*.
 - Required. Accept the course policies by completing this [form](https://forms.gle/mHGKXoXmbb1m9HYB9) using your UDEM email account. If you do not complete the form by the end of Friday, August 14, 5 points will be deducted from your individual $E_1$ mark.
 
 **Session 4. Thursday, August 13.**
 
-- Required reading. @lozanoARF, chapter 1: *Logistic credit scoring* (2/4).
-- Supplementary reading. @HullRM5, chapter 1: *Introduction*.
-- Supplementary reading. @ruppert2015statistics, chapter 11, sections 11.6: *Binary Regression* and 11.12.3: *Binary Regression: Who Owns an Air Conditioner?*.
-- Supplementary short. [Bitcoin frente al oro desde 2014](https://www.youtube.com/shorts/V-DH5TqCefc).
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 3: *Time series decomposition*.
+- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (2/4).
+- Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.1–12.5: time-series data, stationary processes, parameter estimation, and AR(1) processes.
+- Supplementary video. [Rendimientos accionarios en R](https://www.youtube.com/watch?v=WVSP6z9EG44).
 
 **Session 5. Monday, August 17.**
 
-- Required reading. @lozanoARF, chapter 1: *Logistic credit scoring* (3/4).
-- Supplementary short. [SPY vs libre de riesgo: invertir $1 desde 1998](https://www.youtube.com/shorts/veZp_7Vx9wg).
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 4: *Time series features* and 5: *The forecaster's toolbox*.
+- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (3/4).
+- Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.6–12.9: AR, MA, ARMA, and ARIMA processes.
+- Supplementary essay. Lozano (2026), [*Un promedio no es una promesa*](https://ahyaentendi.substack.com/p/un-promedio-no-es-una-promesa).
 
 **Session 6. Thursday, August 20.**
 
-- Required reading. @lozanoARF, chapter 1: *Logistic credit scoring* (4/4).
-- Supplementary short. [La paradoja de Parrondo en finanzas](https://www.youtube.com/shorts/lBy7jn3sp60).
-- Supplementary video. [La paradoja de Parrondo](https://www.youtube.com/watch?v=cEuyfD2qVgQ).
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*.
+- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (4/4).
+- Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.10–12.13: unit-root tests, ARIMA model selection, forecasting, and partial autocorrelations.
+- Supplementary video. [Cómo aparece la normalidad al promediar datos](https://www.youtube.com/watch?v=bzwL9kSenIA).
 
 **Session 7, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, August 24.**
 
-- Required reading. @lozanoARF, chapter 2: *Tree-based credit scoring* (1/3).
-- Supplementary essay. Lozano (2026), [*El riesgo financiero y las formas del terror*](https://ahyaentendi.substack.com/p/el-riesgo-financiero-y-las-formas).
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 8: *Exponential smoothing*.
+- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning* (1/3).
+- Supplementary reading. @ruppert2015statistics, chapter 13, section 13.1: *Seasonal ARIMA Models*.
 
 **Session 8. Thursday, August 27.**
 
-- Required reading. @lozanoARF, chapter 2: *Tree-based credit scoring* (2/3).
-- Supplementary video. [Carteras de inversión: diseño y análisis](https://www.youtube.com/watch?v=OO09EqT-aAM).
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 9: *ARIMA models*.
+- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning* (2/3).
+- Supplementary reading. @ruppert2015statistics, chapter 13, section 13.2: *Box–Cox Transformation for Time Series*.
+- Supplementary video. [Histograma 3D de una normal bivariada](https://www.youtube.com/watch?v=OaiAWRCH84Y).
 
 **Session 9. Monday, August 31.**
 
-- Required reading. @lozanoARF, chapter 2: *Tree-based credit scoring* (3/3).
-- Supplementary video. [Cartera óptima con rendimiento objetivo](https://www.youtube.com/watch?v=D00PcnSUFbs).
+- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning* (3/3).
+- Supplementary reading. @ruppert2015statistics, chapter 13, section 13.3: *Time Series and Regression*.
+- Supplementary short. [Correlación y causalidad](https://www.youtube.com/shorts/b7Ac0lDDzCU).
 
 **Session 10. Thursday, September 3.**
 
@@ -87,30 +96,34 @@
 
 **Session 15. <span class="bi bi-peace-fill content-icon" aria-hidden="true"></span> Monday, September 21.**
 
-- Topic 2/3: Structural credit risk and market pricing.
-- Required reading. @lozanoARF, chapter 3: *The Merton model* (1/2).
+- Topic 2/3: Volatility and asset pricing econometrics.
+- Required reading. @lozanoEMF, chapter 3: *GARCH volatility forecasting* (1/2).
+- Supplementary reading. @ruppert2015statistics, chapter 14, sections 14.1–14.10: ARCH, GARCH, estimation, fitting, and the GARCH(1,1) model.
+- Supplementary video. [Estimación muestral de la volatilidad no condicional](https://www.youtube.com/watch?v=0F3wUB2ATTA).
 
 **Session 16. Thursday, September 24.**
 
-- Required reading. @lozanoARF, chapter 3: *The Merton model* (2/2).
-- Required reading. @Hull11, chapter 24, sections 24.1: *Credit ratings*; 24.2: *Historical default probabilities*; and 24.6: *Using equity prices to estimate default probabilities*.
-- Supplementary video. [Estrategias de cobertura y especulación usando opciones financieras](https://www.youtube.com/watch?v=O3aSF-748v8).
+- Required reading. @lozanoEMF, chapter 3: *GARCH volatility forecasting* (2/2).
+- Supplementary reading. @ruppert2015statistics, chapter 14, sections 14.11–14.13 and 14.16.1: APARCH, regression with ARMA–GARCH errors, forecasting, and fitting GARCH models in R.
+- Supplementary video. [Estimación del modelo GARCH(1,1)](https://www.youtube.com/watch?v=ZYkIVLPG0QU).
 
 **Session 17, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, September 28.**
 
-- Required reading. @lozanoARF, chapter 4: *Credit Spreads and CDS Valuation* (1/3).
-- Supplementary essay. Lozano (2026), [*Portafolio y existencia, asignar pesos bajo incertidumbre*](https://ahyaentendi.substack.com/p/portafolio-y-existencia-asignar-pesos).
+- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics* (1/3).
+- Supplementary reading. @ruppert2015statistics, chapter 17, sections 17.1 and 17.3–17.4: the CAPM, betas, the Security Market Line, and the Security Characteristic Line.
+- Supplementary video. [Cópulas para modelar dependencia en finanzas](https://www.youtube.com/watch?v=PnAEJ3_lxk0).
 
 **Session 18. <span class="bi bi-cup-hot-fill content-icon" aria-hidden="true"></span> Thursday, October 1.**
 
-- Required reading. @lozanoARF, chapter 4: *Credit Spreads and CDS Valuation* (2/3).
-- Required reading. @Hull11, chapter 24, sections 24.3: *Recovery rates*; 24.4: *Estimating default probabilities from bond yield spreads*; and 24.5: *Comparison of default probability estimates*; and chapter 25, sections 25.1: *Credit default swaps* and 25.2: *Valuation of credit default swaps*.
-- Supplementary video. [Mínima varianza global: pesos, riesgo y rendimiento](https://www.youtube.com/watch?v=0C81uTt6i18).
+- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics* (2/3).
+- Supplementary reading. @ruppert2015statistics, chapter 17, section 17.6: *Estimation of Beta and Testing the CAPM*.
+- Supplementary video. [Gaussian copula model: 2 firms](https://www.youtube.com/watch?v=3p-B19R8RwA).
 
 **Session 19. <span class="bi bi-mortarboard-fill content-icon" aria-hidden="true"></span> Monday, October 5.**
 
-- Required reading. @lozanoARF, chapter 4: *Credit Spreads and CDS Valuation* (3/3).
-- Supplementary video. [Mínima varianza con 5 y 10 industrias](https://www.youtube.com/watch?v=LV6-9AoGK54).
+- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics* (3/3).
+- Supplementary reading. @ruppert2015statistics, chapter 18, sections 18.3–18.5: factor models, time-series factor regressions, the Fama–French three-factor model, and cross-sectional factor models.
+- Supplementary essay. Lozano (2026), [*Dimensiones y los límites de la intuición*](https://ahyaentendi.substack.com/p/dimensiones-y-los-limites-de-la-intuicion).
 
 **Session 20. Thursday, October 8.**
 
@@ -139,38 +152,37 @@
 
 **Session 25. Monday, October 26.**
 
-- Topic 3/3: Portfolio and climate credit risk.
-- Required reading. @lozanoARF, chapter 5: *The Gaussian copula model for portfolio credit risk* (1/3).
+- Topic 3/3: Algorithmic trading and blockchain.
+- Required reading. @lozanoPMF, chapter 3: *Robotrader in R* (1/3).
+- Supplementary reading. @ruppert2015statistics, chapter 15, section 15.3: *Trading Strategies*.
+- Supplementary video. [Trading con velas japonesas: introducción](https://www.youtube.com/watch?v=gAtX54Dp13M).
 
 **Session 26. Thursday, October 29.**
 
-- Required reading. @lozanoARF, chapter 5: *The Gaussian copula model for portfolio credit risk* (2/3).
-- Required reading. @Hull11, chapter 24, sections 24.8: *Default correlation* and 24.9: *Credit VaR*.
-- Supplementary reading. @ruppert2015statistics, chapter 7, sections 7.5: *The Multivariate Normal Distribution* and 7.6: *The Multivariate t-Distribution*; chapter 8, sections 8.3: *Gaussian and t-Copulas*, 8.6: *Tail Dependence*, and 8.9.1: *Simulating from Copula Models*.
-- Supplementary video. [Fronteras eficientes en movimiento](https://www.youtube.com/watch?v=vOCBioteplY).
+- Required reading. @lozanoPMF, chapter 3: *Robotrader in R* (2/3).
+- Supplementary reading. @ruppert2015statistics, chapter 15, section 15.5.3: *Cointegration Analysis of Daily Stock Prices*.
+- Supplementary video. [Señales de compra y venta con las Bandas de Bollinger](https://www.youtube.com/watch?v=U0Kyzy_GO50).
 
 **Session 27. <span class="bi bi-flower1 content-icon" aria-hidden="true"></span> Monday, November 2.**
 
-- Required reading. @lozanoARF, chapter 5: *The Gaussian copula model for portfolio credit risk* (3/3).
+- Required reading. @lozanoPMF, chapter 3: *Robotrader in R* (3/3).
+- Supplementary video. [Robo trader simple](https://www.youtube.com/watch?v=sT8B9L-tQ64).
 - *The deadline is not yet available, but please remember to complete the Avanza 360 survey.*
 
 **Session 28. <span class="bi bi-shield-check content-icon" aria-hidden="true"></span> Thursday, November 5.**
 
-- Required reading. @lozanoARF, chapter 6: *Climate Credit Risk* (1/3).
-- Supplementary essay. Lozano (2026), [*Riesgo climático y la tragedia de los horizontes temporales*](https://ahyaentendi.substack.com/p/riesgo-climatico-y-la-tragedia-de).
+- Required reading. @lozanoPMF, chapter 7: *Blockchain* (1/3).
 - Optional, non-graded. Share your DataCamp experience on social media if you wish. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
 
 **Session 29, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. <span class="bi bi-stars content-icon" aria-hidden="true"></span> Monday, November 9.**
 
-- Required reading. @lozanoARF, chapter 6: *Climate Credit Risk* (2/3).
-- Supplementary reading. @HullRM5, chapter 22, sections 22.1: *Generating the Scenarios*; 22.2: *Regulation*; and 22.3: *What to Do with the Results*.
-- Supplementary video. [Animación del portafolio de mínima varianza: 5 activos](https://www.youtube.com/watch?v=HjPnHEir_XA).
-- Supplementary video. [Animación del portafolio de mínima varianza: 10 activos](https://www.youtube.com/watch?v=tcgtNfPl5gI).
+- Required reading. @lozanoPMF, chapter 7: *Blockchain* (2/3).
+- Supplementary essay. Lozano (2026), [*Blockchain y la mejora que no termina de llegar*](https://ahyaentendi.substack.com/p/blockchain-y-la-mejora-que-no-termina).
 
 **Session 30. Thursday, November 12.**
 
-- Required reading. @lozanoARF, chapter 6: *Climate Credit Risk* (3/3).
-- Bonus points. **Data Analyst Certification.** Complete this DataCamp certification before 10:00 a.m. to earn +20 points on your individual $E_F$ mark. It is not necessary to send evidence because DataCamp automatically records whether it was completed on time.
+- Required reading. @lozanoPMF, chapter 7: *Blockchain* (3/3).
+- Bonus points. **Data Scientist Certification.** Complete this DataCamp certification before 10:00 a.m. to earn +20 points on your individual $E_F$ mark. DataCamp also offers a **Data Scientist Associate** certification, but that version does not satisfy this activity. It is not necessary to send evidence because DataCamp automatically records whether the required certification was completed on time.
 
 **Holiday. <span class="bi bi-umbrella content-icon" aria-hidden="true"></span> Monday, November 16.**
 

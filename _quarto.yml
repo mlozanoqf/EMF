@@ -8,12 +8,12 @@ project:
 
 course:
   code: EMF1
-  title: Econometría para los financieros EMF1.
+  title: Econometría para los mercados financieros EMF1.
   term: Fall 2026
   status: Under review
   room: XXX
   meeting-days: Monday & Thursday
-  meeting-time: "16:00 – 17:30"
+  meeting-time: "17:30 – 19:00"
   zoom: XXX
 
 book:
