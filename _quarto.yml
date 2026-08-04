@@ -11,10 +11,10 @@ course:
   title: Econometría para los mercados financieros EMF1.
   term: Fall 2026
   status: Under review
-  room: XXX
+  room: 3314
   meeting-days: Monday & Thursday
   meeting-time: "17:30 – 19:00"
-  zoom: XXX
+  zoom: https://us02web.zoom.us/j/89069235074
 
 book:
   title: "{{< meta course.title >}}"
